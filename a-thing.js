@@ -30,7 +30,8 @@ if (confirm("do you want to play a-thing.js?")) {
     alert("yay!! lets play!!")
     alert("hi, "+prompt("what is your name")+". i'm sure we will become  b e s t   f r i e n d s .")
     if (confirm("would you like to die")) {
-        alert("wow um ok you just like willingly die???? you need help i cana reccomend you to a good therapist")
+        alert("wow um ok you just like willingly die???? you need help i can reccomend you to a good therapist")
+        alert("you got the therapy ending")
     } else {
         alert("too bad loser")
         alert("just kidding ha ha")
