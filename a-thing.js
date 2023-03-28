@@ -1,3 +1,30 @@
+// warning spoilers are below
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 alert("welcome to a-thing.js!!")
 if (confirm("do you want to play a-thing.js?")) {
     alert("yay!! lets play!!")
