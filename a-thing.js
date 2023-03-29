@@ -35,7 +35,7 @@ if (confirm("do you want to play a-thing.js?")) {
     } else {
         alert("too bad loser")
         alert("just kidding ha ha")
-        if (prompt('TYPE "BOOGIE" TO DANCE A LOT').toLowerCase=="boogie") {
+        if (prompt('TYPE "BOOGIE" TO DANCE A LOT').toLowerCase()=="boogie") {
             alert("you dance")
             alert("and dance")
             alert("and dance")
@@ -66,7 +66,7 @@ if (confirm("do you want to play a-thing.js?")) {
                 alert("ha trick question you didn't die")
                 alert("don't try to die")
                 alert("please")
-                if (prompt("don't you dare type labrador").toLowerCase=="labrador") {
+                if (prompt("don't you dare type labrador").toLowerCase()=="labrador") {
                     alert("what have you done")
                     alert("we are doomed")
                     alert("you got the you doomed us all ending")
