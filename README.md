@@ -1,3 +1,2 @@
-don't be interested in this
-
-i don't know what i'm doing
+# **_h e l l o_**
+i made this for fun
